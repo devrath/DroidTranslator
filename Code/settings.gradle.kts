@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "translatorv"
+rootProject.name = "translator"
 include(":androidApp")
 include(":shared")
